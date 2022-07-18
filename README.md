@@ -28,4 +28,4 @@ Please submit them via creating an issue in the project repository: [issue list]
 
 ## Changelog
 
-[Check out the changelog](https://github.com/estruyf/vscode-hugo-themer/blob/master/changelog.md)
+[Check out the changelog](https://github.com/estruyf/vscode-hugo-themer/blob/master/CHANGELOG.md)
